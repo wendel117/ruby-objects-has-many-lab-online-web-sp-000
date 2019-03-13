@@ -13,10 +13,9 @@ end
 
 
 def author_name
-  if self.author.name=nil
-    return nil
-  end
   
+  end
+
 end
 
 end
