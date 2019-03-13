@@ -13,7 +13,6 @@ end
 
 
 def author_name
-  self.artist ? self.artist.name : nil
 end
 
 end
