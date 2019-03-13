@@ -12,8 +12,8 @@ def self.all
 end
 
 
-def author_name(name)
-  self.author.name(name)
+def author_name
+  self.author.name
 end
 
 end
