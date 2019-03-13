@@ -13,7 +13,7 @@ end
 
 
 def author_name
-  self.@author.name
+  self.author.name
 end
 
 end
